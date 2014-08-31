@@ -1,10 +1,10 @@
 #Web scrapping tools
 Various tool to extract data from web pages. 
 
-Programs listed:
-1. ReadHTML.py : Read different tags of html page using beatifulsoup
-2. crawler.py  : Simple crawler to list all the link associated with the page
-3. reefeedreader.py : Program to read rss feeds and store in a file.
+Programs listed:<br>
+1. ReadHTML.py : Read different tags of html page using beatifulsoup.<br>
+2. crawler.py  : Simple crawler to list all the link associated with the page.<br>
+3. reefeedreader.py : Program to read rss feeds and store in a file.<br>
 
 
 Please do install following libraries for using the codes.
