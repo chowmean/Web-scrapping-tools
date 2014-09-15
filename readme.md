@@ -9,7 +9,7 @@ Programs listed:<br>
 
 Please do install following libraries for using the codes.
 
-1. sudo apt-get install pip
+1. sudo apt-get install python-pip
 2. sudo pip install oauth2
 3. sudo pip install tweepy
 4. sudo pip install requests
